@@ -2151,6 +2151,11 @@ input[type="radio"].visually-hidden {
 	position: relative;
 }
 
+.map__google {
+ 
+ 	border: 0; 
+}
+
 .modal__show {
 	display: block;
 }
