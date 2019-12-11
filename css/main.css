@@ -1,4 +1,4 @@
-@font-face { 
+﻿@font-face { 
 	font-family: "OpenSans Light";
 
 	src: local("OpenSans Light"), 
@@ -2159,6 +2159,7 @@ input[type="radio"].visually-hidden {
 .modal__show {
 	display: block;
 }
+иии
 
 
 /*--------------------------------------------Модал--------------------------------------------*/
